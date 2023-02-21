@@ -1,0 +1,1 @@
+At inception, Puffers arena is basically a note-taking app built as a drill while I'm learning php backend handling. Signup, login and out codes have been written in php. MYSQL database is being used. It is important that you check the connector.php file and edit the database connection key as well as reset the http base backlinks to not get errors. Let's get Puffing! 
