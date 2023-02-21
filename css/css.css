@@ -1,0 +1,86 @@
+body{
+/*
+    background: url("../img/lsi.png") no-repeat center center;
+    background-attachment: fixed;
+*/
+    background-color: #5c5c5c;
+    background-size: cover;
+    overflow: scroll;
+}
+html{
+    min-height: 100%;
+    position: relative;
+    width: 100%;
+}
+.introtext{
+    color: white;
+    text-align: center;
+}
+#wrap{
+    margin-bottom: 280px;
+}
+   
+#innercontent{
+    margin-top: 60px;
+    width: 100%;
+    
+}
+
+.footer{
+    background: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    bottom: 0px;
+}
+.nopadding{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.footer-grp{
+    border: red 3px solid;
+    border-radius: 50px;
+    padding: 10px 10px;
+    text-align: center;
+}
+.footer-grp ul{
+    list-style: none;
+    padding-left: 0px;
+}
+.crazy:hover{
+    background-color: rgba(0, 0, 0, 0.4);
+    color: #5bc0de;
+    
+    
+}
+.hidden{
+    display: none;
+}
+.shown{
+    display: block;
+}
+#commentbox{
+          color: #4b4a58;
+          border: 10px solid black;
+          padding: 15px 15px;
+          margin: auto;
+          background: linear-gradient(#b2d5f4, #0a4d86);
+          font-weight: bold;
+         
+      }
+      #commenttitlebox{
+           color: black;
+          display: block;
+          margin: auto;
+          background: linear-gradient(#b2d5f4, #0a4d86);
+          font-weight: bold;
+         
+      }
+      .commentss{
+          background: linear-gradient(#d6e586, #8da84e);
+          border: 10px solid yellow;
+          border-radius: 60px;
+          text-align: left;
+          padding-left: 20px;
+          color: #144e81;
+          cursor: pointer;
+  
+      }

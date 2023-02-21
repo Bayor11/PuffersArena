@@ -1,0 +1,11 @@
+session variables;
+
+
+$_SESSION['username'] 
+ $_SESSION['user_id']
+ 
+ 
+ 
+ 
+ 
+ http://localhost/puffersarena/activate.php?activationkey=&username=
